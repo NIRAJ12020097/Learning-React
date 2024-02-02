@@ -19,7 +19,6 @@ function App() {
         <ol>
             <li>Badminton(State level)- Present</li>
             <li>HactoberFest2022</li>
-            <li>Musical Instruments</li>
         </ol>
 
     </div>
